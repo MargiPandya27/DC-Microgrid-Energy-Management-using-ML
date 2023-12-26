@@ -33,7 +33,7 @@ For Solar Power Plant
 For Wind Power Plant
 
 <p align="center">
-  <img src="https://github.com/MargiPandya27/Energy-Management-using-Machine-Learning/assets/117746681/0f2f1684-e932-46a3-af5c-f9e5e956111b" alt="Fig 5 MA for power">
+  <img src="https://github.com/MargiPandya27/Energy-Management-using-Machine-Learning/assets/117746681/0f2f1684-e932-46a3-af5c-f9e5e956111b" alt="Fig 5 MA for power", width="300">
 </p>
 
 ### Whale Optimization Alogrithm
