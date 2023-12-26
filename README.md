@@ -45,3 +45,21 @@ For Wind Power Plant
 <p align="center">
   <img src = "https://github.com/MargiPandya27/Energy-Management-using-Machine-Learning/assets/117746681/09e108ce-775c-4cfb-85bd-a6260f1fda60">
 </p>
+
+
+
+### Citation
+If you found our model useful in your research, please consider starring ⭐ us on GitHub and citing 📚 us in your research!
+
+```bibtex
+@INPROCEEDINGS{10150763,
+  author={Pandya, Margi and Rana, Ankur Singh and Farhan M A, Aneesa},
+  booktitle={2023 International Conference on Recent Advances in Electrical, Electronics & Digital Healthcare Technologies (REEDCON)}, 
+  title={Energy Management in DC Microgrid Using Machine Learning}, 
+  year={2023},
+  volume={},
+  number={},
+  pages={302-307},
+  doi={10.1109/REEDCON57544.2023.10150763}}
+```
+
